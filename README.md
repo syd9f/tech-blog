@@ -17,7 +17,7 @@ Requires node.js and inquirer
 Use in terminal
 
 ## Credits
-Used starter code from Columbia Engineering Coding Bootcamp Module 14 Assignment 18 to set up the views folder.
+Used starter code from Columbia Engineering Coding Bootcamp Module 14 Assignments.
 ## Questions
 Contact for Questions: 
  [Github](https://github.com/syd9f) 
