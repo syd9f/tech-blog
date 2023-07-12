@@ -2,7 +2,7 @@
 Module 14: MVC
 
 ## Description
-This is a project for users to share posts on a blog
+This is a project for users to share tech related posts on a blog with other users.
 
 ## User Story
 
@@ -60,10 +60,13 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 ## Installation
 Requires node.js and inquirer
 ## Usage
-Use in terminal
+
 
 ## Credits
 Used starter code from Columbia Engineering Coding Bootcamp Module 14 Assignments.
+
+Worked with tutor Sean Brown-Byfield.
+
 ## Questions
 Contact for Questions: 
  [Github](https://github.com/syd9f) 
