@@ -2,7 +2,7 @@
 Module 14: MVC
 
 ## Description
-This is a project for....
+This is a project for users to share posts on a blog
 
 ## User Story
 
