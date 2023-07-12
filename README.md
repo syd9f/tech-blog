@@ -58,9 +58,9 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 4. [Questions](#questions)
 
 ## Installation
-Requires node.js and inquirer
+Requires node.js, express,  [express-handlebars](https://www.npmjs.com/package/express-handlebars) , [express-session](https://www.npmjs.com/package/express-session), [Sequelize](https://www.npmjs.com/package/sequelize), [MySQL2](https://www.npmjs.com/package/mysql2)
 ## Usage
-
+When visiting the site, the user should be able to see the main page with links to login. 
 
 ## Credits
 Used starter code from Columbia Engineering Coding Bootcamp Module 14 Assignments.
